@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image</string>
+    <string name="todo">TODO</string>
+    <string name="show_hide_image">"Show/hide image       "</string>
+    <string name="button">Refresh</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+</resources>
